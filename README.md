@@ -1,4 +1,6 @@
 # hello-world
 First repository
 
-First commit
+Deleting first commit
+
+Adding 2nd commit
